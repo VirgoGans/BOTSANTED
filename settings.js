@@ -34,7 +34,7 @@ global.myweb = ''
 global.packname = 'Dark Zarin'
 global.author = 'by Al Habsyi'
 
-global.userjson = `https://dark-zarin.github.io/alldata.json`
+global.userjson = `https://abytesbot.github.io/alldata.json`
 
 
 global.bot1 = '6285756244558'
