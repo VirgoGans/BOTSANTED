@@ -24,7 +24,7 @@ global.APIKeys = {
 global.owner = ['6285711621559']
 global.premium = ['6285711621559']
 global.ownernomer = '6285711621559'
-global.ownername = 'Fazrin Mauza'
+global.ownername = 'Al Habsyi'
 global.botname = 'Dark Zarin'
 global.footer = '© Dark Zarin by Fazrin Mauza'
 global.ig = ''
@@ -32,7 +32,7 @@ global.region = ''
 global.sc = ''
 global.myweb = ''
 global.packname = 'Dark Zarin'
-global.author = 'by Fazrin Mauza'
+global.author = 'by Al Habsyi'
 
 global.userjson = `https://dark-zarin.github.io/alldata.json`
 
