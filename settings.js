@@ -26,7 +26,7 @@ global.premium = ['6285711621559']
 global.ownernomer = '6285711621559'
 global.ownername = 'Al Habsyi'
 global.botname = 'Dark Zarin'
-global.footer = '© Dark Zarin by Fazrin Mauza'
+global.footer = '© Dark Zarin By Al Habsyi'
 global.ig = ''
 global.region = ''
 global.sc = ''
@@ -34,7 +34,7 @@ global.myweb = ''
 global.packname = 'Dark Zarin'
 global.author = 'by Al Habsyi'
 
-global.userjson = `https://k1mimaru.github.io/alldata.json`
+global.userjson = `https://gyzxo7777.github.io/alldata.json`
 
 
 global.bot1 = '6285756244558'
