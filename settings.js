@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['183173255957']
-global.premium = ['183173255957']
-global.ownernomer = '183173255957'
+global.owner = ['6285899109527']
+global.premium = ['6285899109527']
+global.ownernomer = '6285899109527'
 global.ownername = 'Walz mods'
 global.botname = 'Dark Zarin'
 global.footer = '© Dark Zarin By Al Habsyi'
