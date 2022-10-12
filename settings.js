@@ -21,27 +21,27 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6285899109527']
-global.premium = ['6285899109527']
-global.ownernomer = '6285899109527'
-global.ownername = 'Walz mods'
-global.botname = 'Dark Zarin'
-global.footer = '© Dark Zarin By Al Habsyi'
+global.owner = ['6285225142163']
+global.premium = ['6285225142163']
+global.ownernomer = '6285225142163'
+global.ownername = 'Walzz TFR'
+global.botname = 'Ikhwal TFR'
+global.footer = '© Walzz The Fall Rivers'
 global.ig = ''
 global.region = ''
 global.sc = ''
 global.myweb = ''
-global.packname = 'Dark Zarin'
-global.author = 'by Al Habsyi'
+global.packname = 'Walzz Was Here'
+global.author = 'TFR'
 
 global.userjson = `https://gyzxo7777.github.io/alldata.json`
 
 
-global.bot1 = '6285756244558'
-global.bot2 = '6285711621559'
-global.bot3 = '6285711621559'
-global.bot4 = '6285711621559'
-global.bot5 = '6285711621559'
+global.bot1 = '6285225142163'
+global.bot2 = '6285225142163'
+global.bot3 = '6285225142163'
+global.bot4 = '6285225142163'
+global.bot5 = '6285225142163'
 
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
