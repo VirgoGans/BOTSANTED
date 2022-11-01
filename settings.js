@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6285225142163']
-global.premium = ['6285225142163']
-global.ownernomer = '6285225142163'
+global.owner = ['6288227856331']
+global.premium = ['6288227856331']
+global.ownernomer = '6288227856331'
 global.ownername = 'Walzz TFR'
 global.botname = 'Ikhwal TFR'
 global.footer = '© Walzz The Fall Rivers'
@@ -37,13 +37,13 @@ global.author = 'TFR'
 global.userjson = `https://gyzxo7777.github.io/alldata.json`
 
 
-global.bot1 = '6285225142163'
+global.bot1 = '6288227856331'
 global.bot2 = '6285225142163'
 global.bot3 = '6285225142163'
 global.bot4 = '6285225142163'
 global.bot5 = '6285225142163'
 
-global.sessionName = 'session'
+global.sessionName = 'session.data'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
